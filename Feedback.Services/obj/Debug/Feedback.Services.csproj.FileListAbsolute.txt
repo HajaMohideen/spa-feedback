@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Services\bin\Debug\Feedback.Services.dll
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Services\bin\Debug\Feedback.Services.pdb
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Services\bin\Debug\Feedback.Data.dll
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Services\bin\Debug\Feedback.Entities.dll
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Services\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Services\bin\Debug\Feedback.Data.pdb
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Services\bin\Debug\Feedback.Entities.pdb
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Services\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Services\obj\Debug\Feedback.Services.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Services\obj\Debug\Feedback.Services.dll
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Services\obj\Debug\Feedback.Services.pdb

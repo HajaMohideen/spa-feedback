@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Entities\bin\Debug\Feedback.Entities.dll
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Entities\bin\Debug\Feedback.Entities.pdb
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Entities\obj\Debug\Feedback.Entities.dll
+C:\Users\admin\Desktop\New folder\spa-webapi-angularjs-master\Feedback.Entities\obj\Debug\Feedback.Entities.pdb
