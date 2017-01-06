@@ -1,0 +1,46 @@
+﻿<hr />
+<div class="row">
+    <div class="col-md-8">
+        <div class="panel panel-primary" id="panelLatestMovies">
+            <div class="panel-heading">
+                <h3 class="panel-title">Feed Back Form</h3>
+            </div>
+
+            <div class="panel-body">
+
+                <form class="form-horizontal" role="form" novalidate angular-validator name="addUserForm" angular-validator-submit="saveUser()">
+
+                    <div class="form-group">
+                        <label for="inputUsername" class="sr-only">Username</label>
+                        <input type="text" id="inputUsername" name="inputUsername" class="form-control" ng-model="user.username" placeholder="Username"
+                               validate-on="blur" required required-message="'Username is required'">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="inputSubject" class="sr-only">Subject</label>
+                        <input type="text" id="inputSubject" name="inputSubject" class="form-control" ng-model="user.subject" placeholder="Subject"
+                               validate-on="blur" required required-message="'Subject is required'">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="inputEmail" class="sr-only">Email</label>
+                        <input type="text" id="inputEmail" name="inputEmail" class="form-control" ng-model="user.email" placeholder="Email"
+                               validate-on="blur" required required-message="'Email is required'">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="inputFeedback" class="sr-only">Feedback</label>
+                        <input type="text" id="inputFeedback" name="inputFeedback" class="form-control" ng-model="user.feedback" placeholder="Feedback"
+                               validate-on="blur" required required-message="'Feedback is required'">
+                    </div>
+
+                    <button class="btn btn-lg btn-primary btn-block" type="submit">Send</button>
+
+                </form>
+
+
+            </div>
+        </div>
+    </div>
+
+</div>
